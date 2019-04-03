@@ -1,0 +1,3 @@
+rootProject.name = 'testandroid'
+
+include ':app'
